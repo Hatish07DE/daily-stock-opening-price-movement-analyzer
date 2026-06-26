@@ -1,0 +1,22 @@
+{
+    "pipeline_name": "daily_stock_opening_price_movement_pipeline",
+    "run_date": "2026-06-17",
+    "run_timestamp": "2026-06-17 23:45:49",
+    "status": "SUCCESS",
+    "record_counts": {
+        "raw_price_records": 6,
+        "raw_news_records": 6,
+        "processed_price_records": 3,
+        "processed_news_records": 6,
+        "golden_records": 3
+    },
+    "email_sent": true,
+    "output_files": {
+        "raw_price_file_path": "/Users/harish/Documents/stock-market-movement-project/data/raw/stock_prices_raw_2026-06-17.csv",
+        "raw_news_file_path": "/Users/harish/Documents/stock-market-movement-project/data/raw/stock_news_raw_2026-06-17.csv",
+        "processed_price_file_path": "/Users/harish/Documents/stock-market-movement-project/data/processed/stock_open_price_movement_2026-06-17.csv",
+        "processed_news_file_path": "/Users/harish/Documents/stock-market-movement-project/data/processed/stock_news_cleaned_2026-06-17.csv",
+        "golden_summary_file_path": "/Users/harish/Documents/stock-market-movement-project/data/golden/daily_stock_open_movement_summary_2026-06-17.csv"
+    },
+    "error_message": null
+}

@@ -1,0 +1,7 @@
+symbol,company_name,price_date,open_price,high_price,low_price,close_price,volume,api_source,ingestion_timestamp
+AAPL,Apple Inc,2026-06-10,198.20,202.10,197.80,201.50,52100000,sample,2026-06-11 09:40:00
+AAPL,Apple Inc,2026-06-11,203.10,205.30,201.80,204.50,48900000,sample,2026-06-11 09:40:00
+MSFT,Microsoft Corporation,2026-06-10,424.00,428.30,421.50,426.10,31000000,sample,2026-06-11 09:40:00
+MSFT,Microsoft Corporation,2026-06-11,419.50,423.80,418.00,421.20,28000000,sample,2026-06-11 09:40:00
+NVDA,NVIDIA Corporation,2026-06-10,890.00,910.00,884.50,905.20,42000000,sample,2026-06-11 09:40:00
+NVDA,NVIDIA Corporation,2026-06-11,917.59,925.00,910.30,922.10,46000000,sample,2026-06-11 09:40:00

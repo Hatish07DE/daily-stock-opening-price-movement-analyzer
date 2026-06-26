@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+
+logs/
+
+data/raw/*.csv
+data/processed/*.csv
+data/golden/*.csv
+
+
+.DS_Store
